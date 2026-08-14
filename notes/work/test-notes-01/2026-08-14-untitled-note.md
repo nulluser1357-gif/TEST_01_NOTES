@@ -12,7 +12,7 @@ folder: work/test-notes-01
 Welcome! This is the foundation. Everything else builds on these simple ideas.
 
 ---
-python
+```python
 ## 1.1 What is Version Control?
 
 **Simple explanation**  
