@@ -12,7 +12,7 @@ folder: work/test-notes-01
 Welcome! This is the foundation. Everything else builds on these simple ideas.
 
 ---
-
+"""python
 ## 1.1 What is Version Control?
 
 **Simple explanation**  
@@ -169,3 +169,4 @@ git config --list --show-origin
 **Next Module → Repositories & Core Commands**
 
 You now understand *why* we use Git. Time to actually use it!
+
