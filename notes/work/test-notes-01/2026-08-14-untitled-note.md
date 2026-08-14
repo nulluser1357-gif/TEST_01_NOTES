@@ -18,7 +18,7 @@ Welcome! This is the foundation. Everything else builds on these simple ideas.
 **Simple explanation**  
 
 Version Control is like a **time machine + backup system** for your code (or any files).
-
+"""
 It remembers every change you make, who made it, and when. You can go back to any previous version if something breaks.
 
 **Real-life analogy**  
