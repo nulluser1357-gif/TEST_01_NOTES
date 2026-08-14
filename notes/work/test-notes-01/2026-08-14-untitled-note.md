@@ -6,6 +6,6 @@ folder: work/test-notes-01
 ---
 
 ```python
-print("")
+print("jakin cloye")
 
 ```
